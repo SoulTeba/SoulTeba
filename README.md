@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoulTeba
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently selling technology to the main APAC customers at Oracle
-- 💞️ I’m looking to collaborate on potential new ways of montezing the solutions
+- 💞️ I’m looking forward to collaborating on potential new ways of montezing the solutions
 - 📫 You may want to reach me out at linkedin
 
 <!---
